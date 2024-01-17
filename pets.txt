@@ -2,3 +2,5 @@ ace
 minnie
 buggs
 charlee
+cruz
+regis
